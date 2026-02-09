@@ -16,3 +16,7 @@ Cada item inclui o PDF e o exemplo correspondente em Markdown.
 11. [11 - Ordenacao em Python](11-Ordenacao.pdf) - Ordenacao, ranqueamento e estrategias para organizar vetores e tabelas. 
 12. [12 - Manipulacao de Dados com Pandas](12-Manipulacao-Dados.pdf) - Transformacoes e limpeza de dados, reorganizando colunas e valores. 
 13. [13 - Classes e Objetos em Python](13-S3-Classes.pdf) - Introducao a classes, metodos e personalizacao de comportamento em Python. 
+
+## Playlist
+
+https://www.youtube.com/playlist?list=PLTy3TWJeueGyTAm2K80ES5gRbVbb6bmUE
