@@ -1,22 +1,41 @@
-# Slides de programacao em Python
+# Tutorial de Python
 
-Abaixo esta a lista numerada das apresentacoes em PDF com o titulo e uma breve descricao.
-Cada item inclui o PDF e o exemplo correspondente em Markdown.
+## Tutorial Introdutório de Linguagem Python
 
-1. [01 - Introducao a Linguagem Python](01-Introducao.pdf) - Panorama da disciplina e da abordagem de metodologia cientifica aplicada ao uso do Python. 
-2. [02 - Pacotes e Ajuda em Python](02-Pacotes-Ajuda.pdf) - Instalacao e carregamento de pacotes, alem de formas de consultar a documentacao e exemplos. 
-3. [03 - Objetos em Python](03-Objetos.pdf) - Tipos e criacao de objetos em Python, incluindo listas, tuplas e dicionarios. 
-4. [04 - Manipulacao de DataFrames em Python](04-Notacao.pdf) - Criacao e manipulacao de DataFrames no pandas para organizar e explorar dados. 
-5. [05 - Modificacao de Valores em Python](05-Modificacao-Valores.pdf) - Tecnicas para atualizar e substituir conteudos em objetos existentes. 
-6. [06 - Estrutura de Repeticao em Python](06-Estrutura-Repeticao.pdf) - Uso de estruturas de controle como condicoes e lacos para automatizar tarefas. 
-7. [07 - Variaveis Categoricas em Python](07-Fatores.pdf) - Criacao, ordenacao e manipulacao de categorias com pandas.Categorical. 
-8. [08 - Listas em Python](08-Listas.pdf) - Organizacao de dados heterogeneos em listas e acesso a seus componentes. 
-9. [09 - DataFrame em Python (pandas)](09-Data-Frames.pdf) - Estrutura tabular em Python, combinando colunas, selecionando e filtrando observacoes. 
-10. [10 - Iteracao Implicita em Python](10-Apply.pdf) - Iteracao vetorizada com NumPy e pandas para aplicar funcoes a colecoes. 
-11. [11 - Ordenacao em Python](11-Ordenacao.pdf) - Ordenacao, ranqueamento e estrategias para organizar vetores e tabelas. 
-12. [12 - Manipulacao de Dados com Pandas](12-Manipulacao-Dados.pdf) - Transformacoes e limpeza de dados, reorganizando colunas e valores. 
-13. [13 - Classes e Objetos em Python](13-S3-Classes.pdf) - Introducao a classes, metodos e personalizacao de comportamento em Python. 
+Este tutorial em vídeo oferece uma introdução prática e progressiva à linguagem Python, amplamente utilizada em ciência de dados, estatística, automação e inteligência artificial. A sequência de vídeos abrange desde os conceitos básicos até técnicas mais avançadas de manipulação de dados, com exemplos claros e código disponível para acompanhamento.
+
+## Slides
+
+1. [Introdução à Linguagem Python](https://github.com/eogasawara/tutorial-python/blob/main/01-Introducao.pdf)
+2. [Pacotes e Ajuda em Python](https://github.com/eogasawara/tutorial-python/blob/main/02-Pacotes-Ajuda.pdf)
+3. [Objetos em Python](https://github.com/eogasawara/tutorial-python/blob/main/03-Objetos.pdf)
+4. [Manipulação de DataFrames em Python](https://github.com/eogasawara/tutorial-python/blob/main/04-Notacao.pdf)
+5. [Modificação de Valores em Python](https://github.com/eogasawara/tutorial-python/blob/main/05-Modificacao-Valores.pdf)
+6. [Estrutura de Repetição em Python](https://github.com/eogasawara/tutorial-python/blob/main/06-Estrutura-Repeticao.pdf)
+7. [Variáveis Categóricas em Python](https://github.com/eogasawara/tutorial-python/blob/main/07-Fatores.pdf)
+8. [Listas em Python](https://github.com/eogasawara/tutorial-python/blob/main/08-Listas.pdf)
+9. [DataFrame em Python (pandas)](https://github.com/eogasawara/tutorial-python/blob/main/09-Data-Frames.pdf)
+10. [Iteração Implícita em Python](https://github.com/eogasawara/tutorial-python/blob/main/10-Apply.pdf)
+11. [Ordenação em Python](https://github.com/eogasawara/tutorial-python/blob/main/11-Ordenacao.pdf)
+12. [Manipulação de Dados com Pandas](https://github.com/eogasawara/tutorial-python/blob/main/12-Manipulacao-Dados.pdf)
+13. [Classes e Objetos em Python](https://github.com/eogasawara/tutorial-python/blob/main/13-S3-Classes.pdf)
+
+## Repositório
+
+<https://github.com/eogasawara/tutorial-python>
 
 ## Playlist
 
-https://www.youtube.com/playlist?list=PLTy3TWJeueGyTAm2K80ES5gRbVbb6bmUE
+[Programação em Python para Análise de Dados](https://www.youtube.com/playlist?list=PLTy3TWJeueGyTAm2K80ES5gRbVbb6bmUE)
+
+[![Assistir a playlist no YouTube](https://img.shields.io/badge/YouTube-Assistir%20playlist-red?logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLTy3TWJeueGyTAm2K80ES5gRbVbb6bmUE)
+
+## Bibliografia
+
+1. Downey, A. Think Python: How to Think Like a Computer Scientist. O'Reilly Media.
+2. VanderPlas, J. Python Data Science Handbook. O'Reilly Media.
+3. Grus, J. Data Science from Scratch. O'Reilly Media.
+
+## Issues
+
+Deixe bugs, dúvidas e sugestões em <https://github.com/eogasawara/tutorial-python/issues>.
