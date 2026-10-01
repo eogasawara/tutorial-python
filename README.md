@@ -6,19 +6,21 @@ Este tutorial em vídeo oferece uma introdução prática e progressiva à lingu
 
 ## Slides
 
-1. [Introdução à Linguagem Python](https://github.com/eogasawara/tutorial-python/blob/main/01-Introducao.pdf)
-2. [Pacotes e Ajuda em Python](https://github.com/eogasawara/tutorial-python/blob/main/02-Pacotes-Ajuda.pdf)
-3. [Objetos em Python](https://github.com/eogasawara/tutorial-python/blob/main/03-Objetos.pdf)
-4. [Manipulação de DataFrames em Python](https://github.com/eogasawara/tutorial-python/blob/main/04-Notacao.pdf)
-5. [Modificação de Valores em Python](https://github.com/eogasawara/tutorial-python/blob/main/05-Modificacao-Valores.pdf)
-6. [Estrutura de Repetição em Python](https://github.com/eogasawara/tutorial-python/blob/main/06-Estrutura-Repeticao.pdf)
-7. [Variáveis Categóricas em Python](https://github.com/eogasawara/tutorial-python/blob/main/07-Fatores.pdf)
-8. [Listas em Python](https://github.com/eogasawara/tutorial-python/blob/main/08-Listas.pdf)
-9. [DataFrame em Python (pandas)](https://github.com/eogasawara/tutorial-python/blob/main/09-Data-Frames.pdf)
-10. [Iteração Implícita em Python](https://github.com/eogasawara/tutorial-python/blob/main/10-Apply.pdf)
-11. [Ordenação em Python](https://github.com/eogasawara/tutorial-python/blob/main/11-Ordenacao.pdf)
-12. [Manipulação de Dados com Pandas](https://github.com/eogasawara/tutorial-python/blob/main/12-Manipulacao-Dados.pdf)
-13. [Classes e Objetos em Python](https://github.com/eogasawara/tutorial-python/blob/main/13-S3-Classes.pdf)
+1. [Introdução à Linguagem Python](https://github.com/eogasawara/tutorial-python/blob/main/01-Introducao.pdf) - [código](https://github.com/eogasawara/tutorial-python/blob/main/examples/01-Introducao.md)
+2. [Pacotes e Ajuda em Python](https://github.com/eogasawara/tutorial-python/blob/main/02-Pacotes-Ajuda.pdf) - [código](https://github.com/eogasawara/tutorial-python/blob/main/examples/02-Pacotes-Ajuda.md)
+3. [Objetos em Python](https://github.com/eogasawara/tutorial-python/blob/main/03-Objetos.pdf) - [código](https://github.com/eogasawara/tutorial-python/blob/main/examples/03-Objetos.md)
+4. [Indexação de DataFrames em Python](https://github.com/eogasawara/tutorial-python/blob/main/04-Indexacao.pdf) - [código](https://github.com/eogasawara/tutorial-python/blob/main/examples/04-Indexacao.md)
+5. [Modificação de Valores em Python](https://github.com/eogasawara/tutorial-python/blob/main/05-Modificacao-Valores.pdf) - [código](https://github.com/eogasawara/tutorial-python/blob/main/examples/05-Modificacao-Valores.md)
+6. [Estrutura de Repetição em Python](https://github.com/eogasawara/tutorial-python/blob/main/06-Estrutura-Repeticao.pdf) - [código](https://github.com/eogasawara/tutorial-python/blob/main/examples/06-Estrutura-Repeticao.md)
+7. [Variáveis Categóricas em Python](https://github.com/eogasawara/tutorial-python/blob/main/07-Categoricos.pdf) - [código](https://github.com/eogasawara/tutorial-python/blob/main/examples/07-Categoricos.md)
+8. [Listas em Python](https://github.com/eogasawara/tutorial-python/blob/main/08-Listas.pdf) - [código](https://github.com/eogasawara/tutorial-python/blob/main/examples/08-Listas.md)
+9. [DataFrame em Python (pandas)](https://github.com/eogasawara/tutorial-python/blob/main/09-Data-Frames.pdf) - [código](https://github.com/eogasawara/tutorial-python/blob/main/examples/09-Data-Frames.md)
+10. [Iteração Implícita em Python](https://github.com/eogasawara/tutorial-python/blob/main/10-Vetorizacao.pdf) - [código](https://github.com/eogasawara/tutorial-python/blob/main/examples/10-Vetorizacao.md)
+11. [Ordenação em Python](https://github.com/eogasawara/tutorial-python/blob/main/11-Ordenacao.pdf) - [código](https://github.com/eogasawara/tutorial-python/blob/main/examples/11-Ordenacao.md)
+12. [Manipulação de Dados com Pandas](https://github.com/eogasawara/tutorial-python/blob/main/12-Manipulacao-Dados.pdf) - [código](https://github.com/eogasawara/tutorial-python/blob/main/examples/12-Manipulacao-Dados.md)
+13. [Classes e Objetos em Python](https://github.com/eogasawara/tutorial-python/blob/main/13-Classes.pdf) - [código](https://github.com/eogasawara/tutorial-python/blob/main/examples/13-Classes.md)
+
+Os arquivos de código trazem os exemplos de cada aula com explicações de apoio e as saídas obtidas na execução.
 
 ## Repositório
 
